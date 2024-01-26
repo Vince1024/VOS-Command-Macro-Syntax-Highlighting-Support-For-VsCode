@@ -10,5 +10,5 @@ Adds syntax highlighting support for VOS Command Macro.
 
 ## Bugs
 
-If you happen to notice bugs or have suggestions for improvements visit the [issue section]() of the [repository]().
+If you happen to notice bugs or have suggestions for improvements visit the [issue section](https://github.com/Vince1024/VOS-Command-Macro-Syntax-Highlighting-Support-For-VsCode/issues) of the [repository](https://github.com/Vince1024/VOS-Command-Macro-Syntax-Highlighting-Support-For-VsCode).
 
