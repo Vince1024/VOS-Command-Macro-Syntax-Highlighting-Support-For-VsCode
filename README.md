@@ -1,0 +1,14 @@
+# VOS Command Macro Syntax Highlighting Support
+
+Syntax highlighting support for VOS Command Macro in Visual Studio Code.
+
+## Syntax highlighting
+
+Adds syntax highlighting support for VOS Command Macro.
+
+![Screenshot VOS Command Macro](/images/Screenshot_01.png?raw=true)
+
+## Bugs
+
+If you happen to notice bugs or have suggestions for improvements visit the [issue section]() of the [repository]().
+

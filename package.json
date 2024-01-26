@@ -1,0 +1,25 @@
+{
+  "name": "vos-command-macro",
+  "displayName": "vos.command.macro",
+  "description": "Vos Command Macro",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "cm",
+      "aliases": ["VOS Command Macro", "cm"],
+      "extensions": [".cm"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "cm",
+      "scopeName": "source.cm",
+      "path": "./syntaxes/cm.tmLanguage.json"
+    }]
+  }
+}
