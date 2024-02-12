@@ -31,11 +31,11 @@
 		"keywords": {
 			"patterns": [
 				{
-				"name": "keyword.control.cm",
+				"name": "keyword.other.cm",
 				"match": "\\B(&attach_input|&begin_parameters|&break|&continue|&control|&dcl_name|&detach_input|&display_line|&display_line_partial|&do|&echo|&else|&end|&end_parameters|&eof|&eval|&goto|&if|&label|&mode|&return|&set|&set_name|&set_name_string|&set_string|&then|&while)\\b"
 				},
 				{
-				"name": "keyword.other.cm",
+				"name": "keyword.control.cm",
 				"match": "\\b(abs|access|after|ask|before|break|byte|calc|ceil|command_status|concat|contents|copy|count|current_dir|current_module|date|date_time|decimal|directory_name|end_of_file|exists|extended_names|file_info|floor|given|group_name|has_access|hexadecimal|home_dir|index|iso_date|iso_date_time|language_name|length|lock_type|locked|ltrim|master_disk|max|message|min|mod|module_info|module_name|object_name|online|path_name|person_name|posix_path|process_dir|process_info|process_type|quote|rank|referencing_dir|reverse|rtrim|search|software_purchased|string|substitute|substr|system_name|scp|ssh|terminal_info|terminal_name|time|translate|trunc|unique_string|unquote|user_name|verify|vos_path|where_path|absolute_date|absolute_time|coming|relative_terms|time_zone|date_time|device_name|module_name|name|number|object_name|pathname|starname|string|system_name|unclaimed|unclaimed_names|user_name)\\b"
 					}
 				]
