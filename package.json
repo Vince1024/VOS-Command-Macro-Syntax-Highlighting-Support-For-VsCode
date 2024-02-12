@@ -24,7 +24,8 @@
     }]
   },
   "repository": {
-      "type": "git",
-      "url”: “https://github.com/Vince1024/VOS-Command-Macro-Syntax-Highlighting-Support-For-VsCode"
-    }
+    "type": "git",
+    "url": "https://github.com/Vince1024/VOS-Command-Macro-Syntax-Highlighting-Support-For-VsCode"
+  },
+  "homepage": "https://github.com/Vince1024/VOS-Command-Macro-Syntax-Highlighting-Support-For-VsCode/blob/main/README.md"
 }
