@@ -22,5 +22,9 @@
       "scopeName": "source.cm",
       "path": "./syntaxes/cm.tmLanguage.json"
     }]
-  }
+  },
+  "repository": {
+      "type": "git",
+      "url”: “https://github.com/Vince1024/VOS-Command-Macro-Syntax-Highlighting-Support-For-VsCode"
+    }
 }
