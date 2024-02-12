@@ -2,7 +2,7 @@
   "name": "vos-command-macro",
   "displayName": "vos.command.macro",
   "description": "Vos Command Macro",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.85.0"
   },
