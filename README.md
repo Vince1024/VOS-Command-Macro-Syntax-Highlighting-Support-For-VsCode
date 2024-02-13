@@ -4,7 +4,7 @@ Syntax highlighting support for [Stratus VOS](https://en.wikipedia.org/wiki/Stra
 
 ## Syntax highlighting
 
-Adds syntax highlighting support for VOS Command Macro.
+Adds syntax highlighting support for VOS Command Macro
 
 ![Screenshot VOS Command Macro](/images/Screenshot_01.png?raw=true)
 
