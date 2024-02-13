@@ -3,7 +3,6 @@
   "displayName": "vos.command.macro",
   "description": "Vos Command Macro",
   "icon": "images/Icon.png",
-  "version": "1.0.1",
   "engines": {
     "vscode": "^1.85.0"
   },
