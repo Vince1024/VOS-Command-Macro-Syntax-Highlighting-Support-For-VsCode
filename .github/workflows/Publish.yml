@@ -17,6 +17,8 @@ jobs:
       - uses: avakar/tag-and-release@v1
         with:
           tag_name: ${{ steps.version.outputs.version }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
       - run: npm install
       - uses: lannonbr/vsce-action@3.0.0
         with:
