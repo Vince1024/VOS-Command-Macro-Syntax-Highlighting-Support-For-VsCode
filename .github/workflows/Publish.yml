@@ -22,6 +22,6 @@ jobs:
       - run: npm install
       - uses: lannonbr/vsce-action@3.0.0
         with:
-          args: "publish -p $VSCE_TOKEN ${{ steps.version.outputs.version }}"
+          args: "publish -p $VSCE_TOKEN ${{ steps.version.outputs.v-version }}"
         env:
           VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
